@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I am now a MS/PhD student at King Abdullah University of Science and Technology(KAUST). 
+- 🌱 I am now a MS/PhD student at King Abdullah University of Science and Technology(KAUST). my homepage: https://www.gcqian.com/.
 - 🔭 I’m currently working on neural architecture search and efficient 3D neural network. I am supervised by [prof. Bernard Ghanem](http://www.bernardghanem.com/).  
-- 📫 my homepage: https://www.gcqian.com/. 
-- ⚡ Most of my projects are opensourced at GitHub and are pinned below. (I also fork the projects I involved in).  
+- ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 
 
 <!--
