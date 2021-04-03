@@ -3,7 +3,7 @@
 <br />
 
 - 👨🏼‍💻 I am a **PhD student** at King Abdullah University of Science and Technology(KAUST)
-- 🔭 I’m currently working on Efficient Neural Networks, 3D Deep Learning, and Neural Archiecture Search
+- 🔭 I’m currently working on 3D Deep Learning, Efficient Neural Networks, and Neural Archiecture Search
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 
 
