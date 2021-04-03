@@ -2,7 +2,7 @@
 [<img align="left" height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=DUDaxg4AAAAJ&hl=en)
 <br />
 
-- 👨🏼‍💻 I am a **PhD student** in **3D deep learning** at King Abdullah University of Science and Technology(KAUST)
+- 👨🏼‍💻 I am a **PhD student** at King Abdullah University of Science and Technology(KAUST)
 - 🔭 I’m currently working on Efficient Neural Networks, 3D Deep Learning, and Neural Archiecture Search
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 
