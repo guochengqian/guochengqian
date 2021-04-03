@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on 3D Deep Learning, Efficient Neural Networks, and Neural Archiecture Search
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 - 📫 My homepage: [<img height="25" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.gcqian.com/)
-- :book: check my publications via google scholar [<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=DUDaxg4AAAAJ&hl=en)
+- :book: Check my publications via google scholar [<img height="25" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.3/icons/googlescholar.svg" />](https://scholar.google.com/citations?user=DUDaxg4AAAAJ&hl=en)
 
 <!--
 **guochengqian/guochengqian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
