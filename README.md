@@ -1,6 +1,7 @@
 
 - 👨🏼‍💻 I am a **PhD student** at King Abdullah University of Science and Technology(KAUST)
-- 🔭 I’m currently working on 3D Deep Learning, Efficient Neural Networks, and Neural Archiecture Search
+- 🔭 I’m currently working on 3D Deep Learning
+- 👯 I’m lucky to work with many great researchers and friends from Meta, Microsoft, SenseTime, Megvii ...
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 - 📫 My [homepage](https://www.gcqian.com/)
 - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=DUDaxg4AAAAJ&hl=en)
