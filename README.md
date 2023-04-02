@@ -1,6 +1,7 @@
 
-- 👨🏼‍💻 I am a **PhD student** at King Abdullah University of Science and Technology(KAUST)
-- 🔭 I’m currently working on 3D Deep Learning (featured work: PointNeXt, ASSANet, PU-GCN, DeepGCNs-TPAMI)
+- 👨🏼‍💻 I am a **Ph.D. candidate** at King Abdullah University of Science and Technology(KAUST)
+- ⚡ I am currently on job market for a full-time research scientist position.
+- 🔭 I’m working on 3D Vision (featured work: PointNeXt, ASSANet, PU-GCN, DeepGCNs)
 - 🌱 I have interned or remotely worked at Meta, Microsoft, SenseTime, Megvii ...
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 - 📫 My [homepage](https://guochengqian.github.io/)
