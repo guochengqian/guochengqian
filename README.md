@@ -1,8 +1,8 @@
-
+<p2>Hi there, I am Gordon (Guocheng Qian).</p2>
 - 👨🏼‍💻 I am a **Ph.D. candidate** at King Abdullah University of Science and Technology(KAUST)
 - ⚡ I am currently on job market for a full-time research scientist position.
-- 🔭 I’m working on 3D Vision (featured work: PointNeXt, ASSANet, PU-GCN, DeepGCNs)
-- 🌱 I have interned or remotely worked at Meta, Microsoft, SenseTime, Megvii ...
+- 🔭 I’m working on 3D perception and 3D AIGC. My featured work includes Magic123, PointNeXt, ASSANet, DeepGCNs
+- 🌱 I have interned or remotely worked at SnapChat, Meta, Microsoft, SenseTime, Megvii ...
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 - 📫 My [homepage](https://guochengqian.github.io/)
 - :book: Check my publications via [google scholar](https://scholar.google.com/citations?user=DUDaxg4AAAAJ&hl=en)
