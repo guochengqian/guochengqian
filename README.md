@@ -1,7 +1,7 @@
 <p2>Hi there, I am Gordon (Guocheng Qian).</p2>
-- 👨🏼‍💻 I am a **Ph.D. candidate** at King Abdullah University of Science and Technology(KAUST)
-- ⚡ I am currently on job market for a full-time research scientist position.
-- 🔭 I’m working on 3D perception and 3D AIGC. My featured work includes Magic123, PointNeXt, ASSANet, DeepGCNs
+- 👨🏼‍💻 I am a research scientist working with Kfir Aberman and Sergey Tulyakov at Snap Research
+- 👯 I graduated from Bernard Ghanem's group at King Abdullah University of Science and Technology(KAUST) as a PhD
+- 🔭 I’m working on 3D generative modelling. My featured work includes AToM, Magic123, PointNeXt, DeepGCNs
 - 🌱 I have interned or remotely worked at SnapChat, Meta, Microsoft, SenseTime, Megvii ...
 - ⚡ Most of my projects are opensourced at GitHub and are pinned below.
 - 📫 My [homepage](https://guochengqian.github.io/)
