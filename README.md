@@ -1,5 +1,5 @@
 <p2>Hi there, I am Gordon (Guocheng Qian).</p2>
-- 👨🏼‍💻 I am a research scientist working with Kfir Aberman and Sergey Tulyakov at Snap Research
+- 👨🏼‍💻 I am a research scientist at Snap Research working on personalized generative AI
 - 👯 I graduated from Bernard Ghanem's group at King Abdullah University of Science and Technology(KAUST) as a PhD
 - 🔭 I’m working on 3D generative modelling. My featured work includes AToM, Magic123, PointNeXt, DeepGCNs
 - 🌱 I have interned or remotely worked at SnapChat, Meta, Microsoft, SenseTime, Megvii ...
